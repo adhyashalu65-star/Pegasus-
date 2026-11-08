@@ -1,1 +1,3 @@
-# Pegasus-
+# Pegasus 
+apt update 
+
